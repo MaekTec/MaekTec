@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I’m interested in Deep Learning, Computer Vision 👁️ and Robotics 🤖
+
 
 <!--
 **MaekTec/MaekTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
