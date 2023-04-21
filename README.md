@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m interested in Deep Learning, Computer Vision 👁️ and Robotics 🤖
+### I’m interested in Deep Learning 🧠, Computer Vision 👁️ and Robotics 🤖
 
 
 <!--
